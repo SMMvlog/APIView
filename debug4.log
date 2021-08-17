@@ -1,0 +1,43 @@
+Watching for file changes with StatReloader--2021-08-10 15:47:43,235
+"GET / HTTP/1.1" 200 14875--2021-08-10 15:47:59,184
+"GET /shop/1/ HTTP/1.1" 200 14791--2021-08-10 15:48:05,884
+C:\Users\MEHBOOB\Desktop\KeycloakAPI\project05\project05\settings.py changed, reloading.--2021-08-10 15:57:25,972
+Watching for file changes with StatReloader--2021-08-10 15:57:28,140
+"GET / HTTP/1.1" 200 14911--2021-08-10 15:57:34,092
+"GET /shop/2/ HTTP/1.1" 200 14835--2021-08-10 15:57:41,812
+C:\Users\MEHBOOB\Desktop\KeycloakAPI\project05\project05\settings.py changed, reloading.--2021-08-10 16:07:50,509
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 14911
+"GET /shop/2/ HTTP/1.1" 200 14835
+C:\Users\MEHBOOB\Desktop\KeycloakAPI\project05\project05\settings.py changed, reloading.
+Watching for file changes with StatReloader--2021-08-10 16:15:09,590
+C:\Users\MEHBOOB\Desktop\KeycloakAPI\project05\api\views.py changed, reloading.--2021-08-10 16:16:19,971
+Watching for file changes with StatReloader--2021-08-10 16:16:21,408
+"GET / HTTP/1.1" 200 14875--2021-08-10 16:16:32,520
+"GET /shop/1/ HTTP/1.1" 200 14791--2021-08-10 16:16:55,695
+C:\Users\MEHBOOB\Desktop\KeycloakAPI\project05\api\views.py changed, reloading.--2021-08-10 16:38:17,416
+Watching for file changes with StatReloader--2021-08-10 16:38:19,066
+No ID provided--2021-08-10 16:38:26,072
+ID Provided--2021-08-10 16:38:26,072
+"GET / HTTP/1.1" 200 14911--2021-08-10 16:38:26,365
+C:\Users\MEHBOOB\Desktop\KeycloakAPI\project05\api\views.py changed, reloading.--2021-08-10 17:01:11,472
+Watching for file changes with StatReloader--2021-08-10 17:01:12,994
+No ID provided--2021-08-10 17:01:18,975
+ID Provided--2021-08-10 17:01:18,975
+"GET / HTTP/1.1" 200 14911--2021-08-10 17:01:19,155
+ID Provided--2021-08-10 17:01:23,659
+ID Provided--2021-08-10 17:01:23,659
+ID Provided--2021-08-10 17:01:23,659
+ID Provided--2021-08-10 17:01:23,660
+"GET /shop/2/ HTTP/1.1" 200 14835--2021-08-10 17:01:23,719
+Watching for file changes with StatReloader--2021-08-11 12:13:40,334
+No ID provided--2021-08-11 12:13:50,719
+ID Provided--2021-08-11 12:13:50,719
+"GET / HTTP/1.1" 200 14875--2021-08-11 12:13:51,472
+Not Found: /favicon.ico--2021-08-11 12:13:52,679
+"GET /favicon.ico HTTP/1.1" 404 2427--2021-08-11 12:13:52,680
+C:\Users\MEHBOOB\Desktop\KeycloakAPI\project05\api\views.py changed, reloading.--2021-08-11 12:14:26,418
+Watching for file changes with StatReloader--2021-08-11 12:14:28,289
+C:\Users\MEHBOOB\Desktop\KeycloakAPI\project05\api\views.py changed, reloading.--2021-08-11 12:14:39,387
+Watching for file changes with StatReloader--2021-08-11 12:14:40,949
+C:\Users\MEHBOOB\Desktop\KeycloakAPI\project05\project05\settings.py changed, reloading.--2021-08-11 12:15:03,652

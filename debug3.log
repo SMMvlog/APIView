@@ -1,0 +1,10 @@
+INFO--autoreload--2021-08-10 14:29:51,803 4388 13420--Watching for file changes with StatReloader
+INFO--basehttp--2021-08-10 14:29:57,319 4388 10616--"GET / HTTP/1.1" 200 14875
+INFO--basehttp--2021-08-10 14:30:43,439 4388 10616--"GET /shop/1/ HTTP/1.1" 200 14791
+INFO--autoreload--2021-08-10 14:31:32,107 4388 13420--C:\Users\MEHBOOB\Desktop\KeycloakAPI\project05\project05\settings.py changed, reloading.
+Watching for file changes with StatReloader--INFO--autoreload--2021-08-10 14:31:33,775 13232 2056
+"GET / HTTP/1.1" 200 14875--INFO--basehttp--2021-08-10 14:31:42,558 13232 14572
+"GET /shop/1/ HTTP/1.1" 200 14791--INFO--basehttp--2021-08-10 14:31:48,792 13232 14572
+Watching for file changes with StatReloader--INFO--autoreload-- 12684 120242021-08-10 15:07:29,919
+"GET / HTTP/1.1" 200 14911--INFO--basehttp-- 12684 107642021-08-10 15:07:35,973
+"GET /shop/2/ HTTP/1.1" 200 14835--INFO--basehttp-- 12684 107642021-08-10 15:07:42,459
